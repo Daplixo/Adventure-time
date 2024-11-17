@@ -3,3 +3,5 @@ oh god this git hub thing still confuses me alot
 
 Well I realised that it is not github that is confusing its just chatgt
 that always makes me run in circles even for an easy task.
+On November 16th-
+Test commit (Commits I am making through bash terminal are not showig up at Github Calendar but they are visbible in the Github repository.
