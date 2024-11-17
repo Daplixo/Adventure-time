@@ -6,9 +6,6 @@ steps=30
 # Time delay between updates (in seconds)
 delay=0.1
 
-# Clear the screen
-clear
-
 # Display a message
 echo "Loading, please wait..."
 
