@@ -1,4 +1,4 @@
-## Adventure-time
+# Adventure-time
 Text-based adventure game using Bash script. (I am still working on the concept)
 
 ## Tech used:
@@ -33,4 +33,7 @@ Text-based adventure game using Bash script. (I am still working on the concept)
    because it was not written by me. When I finally learn to make one by myself,  
    then I will integrate it into my game program as well.
 
-### Thank you
+### On November 18th
+-> Tomorrow is my final exam of Computer programming, so today I am going to spend most of my time
+   preparing for it.
+# Thank you
