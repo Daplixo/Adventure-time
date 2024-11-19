@@ -40,4 +40,7 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 ### On November 19th
 -> Gave my final exam if Computer programming today, Could not do much of bash today but might do some at night.
 
+-> Okay so learnt some bash and implemented it in a seperate file inside the this repository.
+
+
 # Thank you
