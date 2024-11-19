@@ -36,4 +36,8 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 ### On November 18th
 -> Tomorrow is my final exam of Computer programming, so today I am going to spend most of my time
    preparing for it.
+
+### On November 19th
+-> Gave my final exam if Computer programming today, Could not do much of bash today but might do some at night.
+
 # Thank you
