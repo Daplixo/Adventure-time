@@ -5,6 +5,8 @@ steps=30
 
 # Time delay between updates (in seconds)
 delay=0.1
+# Clear screen before starting to run game
+clear
 
 # Display a message
 echo "Loading, please wait..."

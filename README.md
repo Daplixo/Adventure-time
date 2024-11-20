@@ -42,5 +42,7 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 
 -> Okay so learnt some bash and implemented it in a seperate file inside the this repository.
 
+### On November 20th
+-> Could not do anything today, just studied for my exam which is tomorrow.
 
 # Thank you
