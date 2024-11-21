@@ -1,5 +1,27 @@
 #!/bin/bash
 
+steps=30
+
+delay=0.1
+
+clear
+
+echo "Loading, please wait..."
+progress=""
+
+for ((i = 1; i <= steps; i++)); do
+ 
+  progress+="#"
+
+  printf "\r[%-30s] %d%%" "$progress" $((i * 100 / steps))
+
+  sleep $delay
+done
+
+echo -e "\nLoading complete!"
+
+sleep 3
+
 clear
 figlet -f slant ADVENTURE TIME -c
 echo "Welcome to the game" 
