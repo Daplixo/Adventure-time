@@ -24,11 +24,9 @@ sleep 3
 
 clear
 figlet -f slant ADVENTURE TIME -c
-echo "Welcome to the game" 
-sleep 1
-echo "Game is still in the development phase as the developer is still learning bash and have not decided the story line of the game yet."
-sleep 1
-echo "Follow @daplixo on github and all the other socials to get in touch"
-sleep 1
-echo "Thank you"
+
+sleep 3
+echo "Game is still in development phase"
+sleep 3
+echo "Follow @daplixo on github and all the social media platforms to stay updated"
 
