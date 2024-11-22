@@ -52,5 +52,12 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 -> Learnt about things like figlet and added a text banner in beginning of my game interface, a loading screen and also
    improved the over-all functionality of it.
 
+### On November 22nd
+-> Mostly studied for my tomorrow's math exam. 
+
+-> And managed to learn about ascii art and how to implement it in the terminal
+   I was planning to add it in my game but, Atleast rn i feel like it will ruin the aesthetics of the game.
+   Also, I am not sure how I can implement it in my game code.
+
 
 # Thank you
