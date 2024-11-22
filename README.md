@@ -47,4 +47,10 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 
 -> Okay so I was actually able to do something today, I acted a banner at the start of 
    my game to improve the interface.
+
+### On November 21st
+-> Learnt about things like figlet and added a text banner in beginning of my game interface, a loading screen and also
+   improved the over-all functionality of it.
+
+
 # Thank you
