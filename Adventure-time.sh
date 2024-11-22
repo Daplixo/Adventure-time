@@ -29,7 +29,8 @@ sleep 3
 $user
 $age
 $password
-read $user "What is your name?"
+echo "What is your name?"
+read $user
 sleep 1
 echo "Welcome to Adventure-time, $user"
 
