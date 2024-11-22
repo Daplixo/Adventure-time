@@ -30,7 +30,14 @@ echo "What is your name?"
 read user
 sleep 1
 echo "Welcome to Adventure-time, $user"
-
+sleep 1
+echo "What is your age?, $user"
+read age
+sleep 1
+echo "You you dont look like you are $age"
+sleep 1
+echo "Nevermind"
+sleep 1
 echo "Game is still in development phase"
 sleep 3
 echo "Follow @daplixo on github and all the social media platforms to stay updated"
