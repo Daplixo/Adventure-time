@@ -24,8 +24,15 @@ sleep 3
 
 clear
 figlet -f slant ADVENTURE TIME -c
-
 sleep 3
+
+$user
+$age
+$password
+read $user "What is your name?"
+sleep 1
+echo "Welcome to Adventure-time, $user"
+
 echo "Game is still in development phase"
 sleep 3
 echo "Follow @daplixo on github and all the social media platforms to stay updated"
