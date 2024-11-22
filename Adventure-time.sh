@@ -26,11 +26,8 @@ clear
 figlet -f slant ADVENTURE TIME -c
 sleep 3
 
-$user
-$age
-$password
 echo "What is your name?"
-read $user
+read user
 sleep 1
 echo "Welcome to Adventure-time, $user"
 
