@@ -60,6 +60,11 @@ Text-based adventure game using Bash script. (I am still working on the concept)
    Also, I am not sure how I can implement it in my game code.
 
 -> Today I worked on the gameplay part of my game code and added some code lines for input and ouput, I am 
+
    trying to make it interesting and unique.
+
+### On November 23rd
+-> Just gave my exam and did some work after that, nothing special
+
 
 # Thank you
