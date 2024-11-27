@@ -77,4 +77,7 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 ### On November 26th
 -> Gave my last exam of this semester, Also got sick today and not feeling well.
 
+### On November 27th
+-> Only worked on my ongoing projects.
+
 # Thank you
