@@ -70,8 +70,10 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 ### On November 24th
 -> Mostly worked today, going to work again after updating my log book, really busy now a days.
 -> Also I learnt how to use comfy ui.
+
 ### On November 25th
 -> Could not do anthing today, nly studied.
+
 ### On November 26th
 -> Gave my last exam of this semester, Also got sick today and not feeling well.
 
