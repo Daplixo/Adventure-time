@@ -95,4 +95,7 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 ### On December 2nd
 ->
 
+### On December 3rd
+->
+
 # Thank you
