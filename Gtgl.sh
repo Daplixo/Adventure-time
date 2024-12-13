@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Function to clear screen and show a progress bar
