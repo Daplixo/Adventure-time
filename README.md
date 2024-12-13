@@ -63,52 +63,8 @@ Text-based adventure game using Bash script. (I am still working on the concept)
 
    trying to make it interesting and unique.
 
-### On November 23rd
--> Just gave my exam and did some work after that, nothing special
--> Lost my commit streak today, sadly.
-
-### On November 24th
--> Mostly worked today, going to work again after updating my log book, really busy now a days.
--> Also I learnt how to use comfy ui.
-
-### On November 25th
--> Could not do anthing today, nly studied.
-
-### On November 26th
--> Gave my last exam of this semester, Also got sick today and not feeling well.
-
-### On November 27th
--> Only worked on my ongoing projects.
-
-### On November 28th
-->
-
-### On November 29th
--> 
-
-### On November 30th
-->
-
-### On December 1st
-->
-
-### On December 2nd
-->
-
-### On December 3rd
-->
-
-### On December 4th
-->
-
-### On December 5th
-->
-
-### On December 6th
-->
-
-### On December 7th 
-->
+### On December 14th
+-> It is 1 am and I am determined to make huge progresses in my pojects and finish all of them before 2025
 
 
 # Thank you
